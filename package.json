@@ -1,0 +1,35 @@
+{
+  "name": "childish",
+  "version": "0.0.0",
+  "description": "An opinionated LevelUP abstraction that stores and operate on keys in the form of parent/child",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "after-all": "^2.0.0"
+  },
+  "devDependencies": {
+    "levelup": "^0.18.6",
+    "memdown": "^0.10.2",
+    "tape": "^2.14.0"
+  },
+  "keywords": [
+    "database",
+    "db",
+    "level",
+    "leveldb",
+    "levelup",
+    "leveldown",
+    "hierarchy",
+    "hierarchical",
+    "parent",
+    "child",
+    "parents",
+    "children",
+    "key",
+    "value"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk>",
+  "license": "MIT"
+}
