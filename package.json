@@ -1,6 +1,6 @@
 {
   "name": "childish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An opinionated LevelUP abstraction that stores and operate on keys in the form of parent/child",
   "main": "index.js",
   "scripts": {
